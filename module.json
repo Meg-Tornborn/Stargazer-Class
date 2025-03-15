@@ -23,7 +23,8 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "path": "packs/zvizdyar"
     },
     {
       "name": "zvizdyar-vikliki",
@@ -35,7 +36,8 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "path": "packs/zvizdyar-vikliki"
     }
   ]
 }
