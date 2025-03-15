@@ -1,0 +1,41 @@
+{
+  "id": "stargazer-class",
+  "title": "Stargazer Class",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "MEG",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "zvizdyar",
+      "label": "Звіздяр",
+      "path": "packs/zvizdyar",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "zvizdyar-vikliki",
+      "label": "Звіздяр (Виклики)",
+      "path": "packs/zvizdyar-vikliki",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
